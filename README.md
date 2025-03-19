@@ -36,7 +36,7 @@ This analysis uses data from NASA's Exoplanet Archive, focusing on key parameter
 3. **Terminator Zone Potential**: The boundary regions of tidally locked planets offer unique habitability potential
 
 ## Visualizations
-[Coming soon - add screenshots of your key visualizations here]
+![Habitable Zone Visualization](./Visualizations/goldilocks_zone.png)
 
 ## Technologies Used
 - Python (pandas, numpy)
