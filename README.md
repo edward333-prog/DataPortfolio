@@ -3,7 +3,7 @@
 "As we refine our understanding of habitability beyond simple distance-based models, we're discovering that the cosmic real estate suitable for life may be far more extensive than previously thought. This project explores that expanded frontier."
                     
 ## Project Overview
-This project analyzes exoplanet data from NASA's Kepler mission to develop and refine methodologies for assessing exoplanet habitability. Our analysis evolves beyond traditional distance-based models to incorporate temperature-based assessment and star-specific evolutionary considerations.
+This project analyzes exoplanet data from NASA's Kepler mission to develop and refine methodologies for assessing exoplanet habitability. Our analysis evolves beyond traditional distance-based models to incorporate temperature-based assessment and star-specific evolutionary considerations. With two potential candidates returned in the results at a 0.02% success rate. This is exciting as I was expecting 0%. 
 
 ## Key Innovations
 
@@ -38,9 +38,34 @@ This analysis uses data from NASA's Exoplanet Archive, focusing on key parameter
 3. **Terminator Zone Potential**: The boundary regions of tidally locked planets offer unique habitability potential
 
 ## Visualizations
+
+These next two visualisations are part of our Earth Similarity Index (ESI) 
+
+These radar charts visualize our innovative temperature-based approach to exoplanet habitability assessment. Unlike traditional distance-based calculations, our methodology evaluates planets based on actual physical properties that contribute to Earth-like conditions.
+
+Key Categories in the Radar Charts:
+
+Radius: Similarity to Earth's radius (1.0 = exact match), affecting surface gravity and potential for maintaining a suitable atmosphere.
+Temperature: Correspondence to Earth's habitable temperature range (273K-323K or 0°C-50°C), which we prioritize as critical for supporting complex life.
+Insolation: Similarity to the solar energy Earth receives from the Sun, accounting for different star types and their evolution over time.
+Period: Orbital period similarity to Earth, indicating suitable day-night cycles which affect climate stability.
+Star Type: Suitability of the host star for supporting habitable conditions. We've developed specific models for:
+M-dwarf stars (~5% luminosity increase per billion years)
+K-dwarf stars (~8% luminosity increase per billion years)
+G-dwarf stars (~10% luminosity increase per billion years)
+Escape Velocity: Similarity to Earth's escape velocity, indicating a planet's ability to retain an atmosphere necessary for life.
+
+These visualizations demonstrate how planets like K05499.01 (98.15% habitability) and K03497.01 (96.69% habitability) maintain Earth-like temperatures despite potentially lying outside traditional habitable zones, supporting our key finding that temperature-based assessment provides a more accurate picture of habitability than distance-based calculations alone.
+- K05499.01 Radar Chart
 <picture>
   <source srcset="/ExoPlanet/Visualisations/K05499.01_radar.png" media="(prefers-color-scheme: dark)">
   <img src="/Visualisations/K05499.01_radar.png" alt="K05499.01 Radar Chart">
+</picture>
+
+- K03497.01 Radar Chart 
+<picture>
+  <source srcset="/ExoPlanet/Visualisations/K03497.01_radar.png" media="(prefers-color-scheme: dark)">
+  <img src="/Visualisations/K05499.01_radar.png" alt="K03497.01 Radar Chart">
 </picture>
 
 ## Technologies Used
