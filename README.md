@@ -39,7 +39,7 @@ This analysis uses data from NASA's Exoplanet Archive, focusing on key parameter
 
 ## Visualizations
 - A chart to view the different habitable zones by star type
-![Habitable Zone Visualization](./Visualizations/goldilocks_zone.png)
+![K05499.01 Radar Chart](/Visualisations/K05499.01_radar.png)
 
 ## Technologies Used
 - Python (pandas, numpy)
