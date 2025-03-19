@@ -1,6 +1,12 @@
+---
+radar_k05499: /Visualisations/K05499.01_radar.png
+radar_k03497: /Visualisations/K03497.01_radar.png
+---
+
 title: Edward Bagguley
 # logo: /asset/img/headshot_circle.png
 # description: (text below image)
 show_downloads: true
 theme: jekyll-theme-minimal
 # other themes - "jekyll-theme-"Architect, cayman, dinky, hacker, leap day, merlot, midnight, minima, minimal, modernist, slate, tactile, time machine
+baseurl: "/ExoPlanet"
