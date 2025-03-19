@@ -56,17 +56,12 @@ G-dwarf stars (~10% luminosity increase per billion years)
 Escape Velocity: Similarity to Earth's escape velocity, indicating a planet's ability to retain an atmosphere necessary for life.
 
 These visualizations demonstrate how planets like K05499.01 (98.15% habitability) and K03497.01 (96.69% habitability) maintain Earth-like temperatures despite potentially lying outside traditional habitable zones, supporting our key finding that temperature-based assessment provides a more accurate picture of habitability than distance-based calculations alone.
+
 - K05499.01 Radar Chart
-<picture>
-  <source srcset="/ExoPlanet/Visualisations/K05499.01_radar.png" media="(prefers-color-scheme: dark)">
-  <img src="/Visualisations/K05499.01_radar.png" alt="K05499.01 Radar Chart">
-</picture>
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/ExoPlanet/main/Visualisations/K03497.01_radar.png" alt="K05499.01 Radar Chart">
 
 - K03497.01 Radar Chart 
-<picture>
-  <source srcset="/ExoPlanet/Visualisations/K03497.01_radar.png" media="(prefers-color-scheme: dark)">
-  <img src="/Visualisations/K05499.01_radar.png" alt="K03497.01 Radar Chart">
-</picture>
+<img src="https://raw.githubusercontent.com/YOUR-USERNAME/ExoPlanet/main/Visualisations/K03497.01_radar.png" alt="K03497.01 Radar Chart">
 
 ## Technologies Used
 - Python (pandas, numpy)
