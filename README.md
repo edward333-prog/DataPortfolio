@@ -63,8 +63,10 @@ These visualizations demonstrate how planets like K05499.01 (98.15% habitability
 - K03497.01 Radar Chart 
 <picture>
   <source srcset="/ExoPlanet/Visualisations/K03497.01_radar.png" media="(prefers-color-scheme: dark)">
-  <img src="/ExoPlanet/Visualisations/K03497.01_radar.png" alt="K03497.01 Radar Chart">
+  <img src="/Visualisations/K05499.01_radar.png" alt="K03497.01 Radar Chart">
 </picture>
+
+![K03497.01 Radar Chart](Visualisations/K03497.01_radar.png)
 
 ## Technologies Used
 - Python (pandas, numpy)
