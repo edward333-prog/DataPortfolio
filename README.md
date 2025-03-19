@@ -1,5 +1,7 @@
-# Exoplanet Habitability Analysis
+# Exoplanet Habitability Analysis - "Are We Alone In The Universe?" 
 
+"As we refine our understanding of habitability beyond simple distance-based models, we're discovering that the cosmic real estate suitable for life may be far more extensive than previously thought. This project explores that expanded frontier."
+                    
 ## Project Overview
 This project analyzes exoplanet data from NASA's Kepler mission to develop and refine methodologies for assessing exoplanet habitability. Our analysis evolves beyond traditional distance-based models to incorporate temperature-based assessment and star-specific evolutionary considerations.
 
@@ -36,6 +38,7 @@ This analysis uses data from NASA's Exoplanet Archive, focusing on key parameter
 3. **Terminator Zone Potential**: The boundary regions of tidally locked planets offer unique habitability potential
 
 ## Visualizations
+- A chart to view the different habitable zones by star type
 ![Habitable Zone Visualization](./Visualizations/goldilocks_zone.png)
 
 ## Technologies Used
