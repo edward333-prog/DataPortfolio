@@ -38,8 +38,10 @@ This analysis uses data from NASA's Exoplanet Archive, focusing on key parameter
 3. **Terminator Zone Potential**: The boundary regions of tidally locked planets offer unique habitability potential
 
 ## Visualizations
-- A chart to view the different habitable zones by star type
-![K05499.01 Radar Chart](/Visualisations/K05499.01_radar.png)
+<picture>
+  <source srcset="/ExoPlanet/Visualisations/K05499.01_radar.png" media="(prefers-color-scheme: dark)">
+  <img src="/Visualisations/K05499.01_radar.png" alt="K05499.01 Radar Chart">
+</picture>
 
 ## Technologies Used
 - Python (pandas, numpy)
