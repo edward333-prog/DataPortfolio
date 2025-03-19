@@ -58,7 +58,7 @@ Escape Velocity: Similarity to Earth's escape velocity, indicating a planet's ab
 These visualizations demonstrate how planets like K05499.01 (98.15% habitability) and K03497.01 (96.69% habitability) maintain Earth-like temperatures despite potentially lying outside traditional habitable zones, supporting our key finding that temperature-based assessment provides a more accurate picture of habitability than distance-based calculations alone.
 
 - K05499.01 Radar Chart
-![K05499.01 Radar Chart]({{ site.baseurl }}/Visualisations/K05499.01_radar.png)
+
 
 - K03497.01 Radar Chart 
 <picture>
