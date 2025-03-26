@@ -1,4 +1,4 @@
-98888888888888888888888888# Exoplanet Habitability Analysis - "Are We Alone In The Universe?" 
+# Exoplanet Habitability Analysis - "Are We Alone In The Universe?" 
 
 "As we refine our understanding of habitability beyond simple distance-based models, we're discovering that the cosmic real estate suitable for life may be far more extensive than previously thought. This project explores that expanded frontier."
                     
