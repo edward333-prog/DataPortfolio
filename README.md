@@ -39,7 +39,7 @@ This analysis uses data from NASA's Exoplanet Archive, focusing on key parameter
 
 ## Visualizations
 
-These next two visualisations are part of our Earth Similarity Index (ESI) 
+The next visualisation is part of our Earth Similarity Index (ESI) 
 
 These radar charts visualize our innovative temperature-based approach to exoplanet habitability assessment. Unlike traditional distance-based calculations, our methodology evaluates planets based on actual physical properties that contribute to Earth-like conditions.
 
