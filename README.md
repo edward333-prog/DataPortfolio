@@ -81,8 +81,3 @@ These visualizations demonstrate how planets like K05499.01 (98.15% habitability
 - Planetary magnetic field analysis
 - Geological activity considerations
 - Non-Earth-like biochemistry exploration
-
-## Download Full Reports
-- [Comprehensive Analysis Report](./Reports/analysis.pdf) [Placeholder]
-- [Detailed Methodology Evolution](./METHODOLOGY.md)
-- [Data Processing Documentation](./Documentation/data_processing.pdf) [Placeholder]
