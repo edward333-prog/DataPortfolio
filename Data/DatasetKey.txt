@@ -1,0 +1,81 @@
+Relevant Columns for Habitability Analysis:
+
+Planetary Properties:
+
+koi_prad (Planetary Radius): The size of the planet is crucial for habitability. Planets that are too large are likely to be gas giants, while those too small might not retain an atmosphere. Generally, Earth-like planets have a radius between 0.5 and 1.5 Earth radii.
+
+koi_teq (Equilibrium Temperature): This tells us the surface temperature, which is important for liquid water to exist. A habitable planet typically has a temperature between 273 K and 373 K.
+
+koi_insol (Insolation Flux): The amount of energy the planet receives from its star, which is key to maintaining conditions for life (e.g., liquid water). Suitable flux values often range between 0.35 and 1.5 Earth fluxes.
+
+koi_period (Orbital Period): The length of the planet's orbit around the star, related to the planet’s distance from the star. This can help infer if the planet is in the habitable zone.
+
+koi_depth (Transit Depth): Indicates how much of the star’s light is blocked by the planet during a transit, giving hints about the planet's size and atmosphere.
+
+koi_duration (Transit Duration): Useful for understanding the orbital mechanics and how it relates to the planet's habitability.
+
+Stellar Properties:
+koi_steff (Stellar Effective Temperature): The temperature of the host star helps define the habitable zone around it. Cooler stars have closer habitable zones, and hotter stars have wider, more distant zones.
+
+koi_slogg (Stellar Surface Gravity) and koi_srad (Stellar Radius): These help further characterize the star, which is important for calculating the boundaries of the habitable zone.
+
+False Positive Indicators:
+koi_fpflag_nt, koi_fpflag_ss, koi_fpflag_co, koi_fpflag_ec: These flags help filter out false positives, which are important to ensure that the candidate planets are genuine.
+
+Position Data:
+ra and dec (Right Ascension and Declination): The planet's position in the sky, useful for cross-referencing with other datasets or observations.
+
+Abbreviation Key:
+
+# This file was produced by the NASA Exoplanet Archive  http://exoplanetarchive.ipac.caltech.edu
+# Mon Sep 30 07:27:05 2024
+#
+# COLUMN kepid:          KepID
+# COLUMN kepoi_name:     KOI Name
+# COLUMN kepler_name:    Kepler Name
+# COLUMN koi_disposition: Exoplanet Archive Disposition
+# COLUMN koi_pdisposition: Disposition Using Kepler Data
+# COLUMN koi_score:      Disposition Score
+# COLUMN koi_fpflag_nt:  Not Transit-Like False Positive Flag
+# COLUMN koi_fpflag_ss:  Stellar Eclipse False Positive Flag
+# COLUMN koi_fpflag_co:  Centroid Offset False Positive Flag
+# COLUMN koi_fpflag_ec:  Ephemeris Match Indicates Contamination False Positive Flag
+# COLUMN koi_period:     Orbital Period [days]
+# COLUMN koi_period_err1: Orbital Period Upper Unc. [days]
+# COLUMN koi_period_err2: Orbital Period Lower Unc. [days]
+# COLUMN koi_time0bk:    Transit Epoch [BKJD]
+# COLUMN koi_time0bk_err1: Transit Epoch Upper Unc. [BKJD]
+# COLUMN koi_time0bk_err2: Transit Epoch Lower Unc. [BKJD]
+# COLUMN koi_impact:     Impact Parameter
+# COLUMN koi_impact_err1: Impact Parameter Upper Unc.
+# COLUMN koi_impact_err2: Impact Parameter Lower Unc.
+# COLUMN koi_duration:   Transit Duration [hrs]
+# COLUMN koi_duration_err1: Transit Duration Upper Unc. [hrs]
+# COLUMN koi_duration_err2: Transit Duration Lower Unc. [hrs]
+# COLUMN koi_depth:      Transit Depth [ppm]
+# COLUMN koi_depth_err1: Transit Depth Upper Unc. [ppm]
+# COLUMN koi_depth_err2: Transit Depth Lower Unc. [ppm]
+# COLUMN koi_prad:       Planetary Radius [Earth radii]
+# COLUMN koi_prad_err1:  Planetary Radius Upper Unc. [Earth radii]
+# COLUMN koi_prad_err2:  Planetary Radius Lower Unc. [Earth radii]
+# COLUMN koi_teq:        Equilibrium Temperature [K]
+# COLUMN koi_teq_err1:   Equilibrium Temperature Upper Unc. [K]
+# COLUMN koi_teq_err2:   Equilibrium Temperature Lower Unc. [K]
+# COLUMN koi_insol:      Insolation Flux [Earth flux]
+# COLUMN koi_insol_err1: Insolation Flux Upper Unc. [Earth flux]
+# COLUMN koi_insol_err2: Insolation Flux Lower Unc. [Earth flux]
+# COLUMN koi_model_snr:  Transit Signal-to-Noise
+# COLUMN koi_tce_plnt_num: TCE Planet Number
+# COLUMN koi_tce_delivname: TCE Delivery
+# COLUMN koi_steff:      Stellar Effective Temperature [K]
+# COLUMN koi_steff_err1: Stellar Effective Temperature Upper Unc. [K]
+# COLUMN koi_steff_err2: Stellar Effective Temperature Lower Unc. [K]
+# COLUMN koi_slogg:      Stellar Surface Gravity [log10(cm/s**2)]
+# COLUMN koi_slogg_err1: Stellar Surface Gravity Upper Unc. [log10(cm/s**2)]
+# COLUMN koi_slogg_err2: Stellar Surface Gravity Lower Unc. [log10(cm/s**2)]
+# COLUMN koi_srad:       Stellar Radius [Solar radii]
+# COLUMN koi_srad_err1:  Stellar Radius Upper Unc. [Solar radii]
+# COLUMN koi_srad_err2:  Stellar Radius Lower Unc. [Solar radii]
+# COLUMN ra:             RA [decimal degrees]
+# COLUMN dec:            Dec [decimal degrees]
+# COLUMN koi_kepmag:     Kepler-band [mag]
